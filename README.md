@@ -35,7 +35,7 @@ Along the way, I’ve developed strong skills in **Python** and **React**, and I
 
 ### 📌 Featured Projects  
 - 🌞 **[Solar Dashboard](#)** – React + Flask + SQL app monitoring 20+ solar sites (6.2 MW capacity)  
-- 🚁 **[Auto-Leveling Fire Detection Drone](#)** – Custom drone project using sensors and auto-leveling for fire detection and safety monitoring  
+- 🚁 **[Auto-Leveling Fire Detection Drone](#)** – Custom drone with sensors for fire detection and stability control  
 - 🖥️ **[Homelab Setup](#)** – Proxmox cluster with Plex, Nextcloud, Nginx Proxy Manager, Docker CI/CD pipelines    
 
 ---
