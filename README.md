@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h3 align="center">Engineer • Developer • Maker</h3>
+<h2 align="center">Engineer • Developer • Maker</h2>
 
 <p align="center">
   <a href="https://github.com/wajahathussain81?tab=followers">
