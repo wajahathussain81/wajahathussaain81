@@ -4,40 +4,26 @@
     <img src="https://github.com/wajahathussain81/wajahathussain81/blob/main/HiImWajahatHussainIMG.png" alt="Hi, I'm Wajahat Hussain" />
   </a>
 </p>
+
 <h3 align="center">Engineer • Developer • Maker • Entrepreneur</h3>
 
----
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 300px;">
-
-  <h3>🚀 About Me</h3>
-
-  • 🎓 Recent <b>Electrical Engineering</b> Graduate from the <b>University of Calgary</b><br>
-  • 💻 Passionate about <b>software, automation, and data-driven systems</b><br>
-  • 🛠️ Build and tinker in my <b>homelab</b> (Proxmox clusters, Dockerized services, CI/CD)<br>
-  • ⚡ Projects spanning <b>EV conversions</b>, <b>solar dashboards</b>, and <b>automation pipelines</b>
-
-  </div>
-
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-
-  <h3>📊 GitHub Stats</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=wajahathussain81&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-  </div>
-
-</div>
+<p align="center">
+  <a href="https://github.com/wajahathussain81?tab=followers">
+    <img src="https://img.shields.io/github/followers/wajahathussain81?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/wajahathussain81">
+    <img src="https://komarev.com/ghpvc/?username=wajahathussain81&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 About Me  
-- 🎓 Recent **Electrical Engineering** Graduate from the **University of Calgary**
+- 🎓 Recent **Electrical Engineering** Graduate from the **University of Calgary**  
 - 💻 Passionate about **software, automation, and data-driven systems**  
 - 🛠️ Build and tinker in my **homelab** (Proxmox clusters, Dockerized services, CI/CD)  
 - ⚡ Projects spanning **EV conversions**, **solar dashboards**, and **automation pipelines**  
+
 ---
 
 ### 🧰 Tech Stack  
@@ -55,19 +41,16 @@
 
 ---
 
-### 🤝 Connect With Me  
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="https://www.linkedin.com/in/wajahat-hussain">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/wajahathussain81">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=wajahathussain81&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahathussain81&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-⭐ *Fun Fact*: I once restored a **1981 Pontiac Trans Am**, building a custom wiring harness from scratch 🔧🔥  
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/wajahat-hussain">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2
+
