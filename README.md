@@ -42,7 +42,7 @@ Along the way, I’ve developed strong skills in **Python** and **React**, and I
 
 ### 🤝 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/wajahat-hussain">
+  <a href="https://www.linkedin.com/in/wajahat-hussain2001/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:wajah.hussain@gmail.com">
