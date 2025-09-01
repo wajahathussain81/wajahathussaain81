@@ -40,6 +40,8 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajahathussain81&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+</p>
+<p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahathussain81&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
@@ -61,13 +63,3 @@
 ---
 
 ⭐ *Fun Fact*: I once restored a **1981 Pontiac Trans Am**, building a custom wiring harness from scratch 🔧🔥  
-
-
-### 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/wajahat-hussain)  
-- 🐙 [GitHub](https://github.com/wajahathussain81)  
-- 📧 [Email Me](mailto:your.email@example.com)  
-
----
-
-⭐️ *Fun Fact*: I restored a **1981 Pontiac Trans Am**, wiring harness and all 🔧🔥  
