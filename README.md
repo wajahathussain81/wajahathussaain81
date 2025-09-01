@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-[<img src="https://github.com/wajahathussain81/wajahathussain81/blob/main/HiImWajahatHussainIMG.png" alt="Hi, I'm Wajahat Hussain" />](https://wajcloud.org)
+[<img src="https://github.com/wajahathussain81/wajahathussain81/blob/main/HiImWajahatHussainIMG.png" alt="Hi, I'm Wajahat Hussain" align="center"/>](https://wajcloud.org)
 <h3 align="center">Engineer • Developer • Maker • Entrepreneur</h3>
 
 <p align="center">
