@@ -1,5 +1,8 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi there 👋, I'm <a href="https://github.com/wajahathussain81">Wajahat Hussain</a></h1>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" 
+  alt="👋 Hi there! I'm Wajahat Hussain | https://wajcloud.org" 
+  title="👋 Hi there! I'm Wajahat Hussain | https://wajcloud.org"/>](https://wajcloud.org)
+</img>
 <h3 align="center">Engineer • Developer • Maker • Entrepreneur</h3>
 
 <p align="center">
