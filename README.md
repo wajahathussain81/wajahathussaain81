@@ -18,11 +18,11 @@
 
 ---
 
-### 🚀 About Me  
-- 🎓 Recent **Electrical Engineering** Graduate from the **University of Calgary**  
-- 💻 Passionate about **software, automation, and data-driven systems**  
-- 🛠️ Build and tinker in my **homelab** (Proxmox clusters, Dockerized services, CI/CD)  
-- ⚡ Projects spanning **EV conversions**, **solar dashboards**, and **automation pipelines**  
+### 🚀 About Me   
+
+I’m a recent **Electrical Engineering graduate** who is also a **self-taught software developer**. My interests span from working on cars and welding to building software projects and exploring **homelabbing** as a recent passion. I enjoy learning new technologies and finding ways to simplify life through automation, whether that means writing code or building hardware solutions.  
+
+Along the way, I’ve developed strong skills in **Python** and **React**, and I regularly work with **Linux**, **Proxmox**, and **Docker** in my homelab. I’ve also started diving into the world of **DevOps**, where I’m learning tools like **Terraform**, **Ansible**, and **Kubernetes** to expand my ability to design, deploy, and manage scalable systems. Driven by curiosity and a love of challenges, I’m always looking for opportunities to improve processes and build innovative solutions.  
 
 ---
 
