@@ -8,23 +8,28 @@
 
 ---
 
-<table>
-<tr>
-  <td valign="center" width="55%">
-    <h3>🚀 About Me</h3>
-    • 🎓 Recent <b>Electrical Engineering</b> Graduate from the <b>University of Calgary</b><br>
-    • 💻 Passionate about <b>software, automation, and data-driven systems</b><br>
-    • 🛠️ Build and tinker in my <b>homelab</b> (Proxmox clusters, Dockerized services, CI/CD)<br>
-    • ⚡ Projects spanning <b>EV conversions</b>, <b>solar dashboards</b>, and <b>automation pipelines</b>
-  </td>
-  <td valign="center" width="45%">
-    <h3>📊 GitHub Stats</h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wajahathussain81&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-    </p>
-  </td>
-</tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 300px;">
+
+  <h3>🚀 About Me</h3>
+
+  • 🎓 Recent <b>Electrical Engineering</b> Graduate from the <b>University of Calgary</b><br>
+  • 💻 Passionate about <b>software, automation, and data-driven systems</b><br>
+  • 🛠️ Build and tinker in my <b>homelab</b> (Proxmox clusters, Dockerized services, CI/CD)<br>
+  • ⚡ Projects spanning <b>EV conversions</b>, <b>solar dashboards</b>, and <b>automation pipelines</b>
+
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+
+  <h3>📊 GitHub Stats</h3>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wajahathussain81&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+  </div>
+
+</div>
 
 ---
 
