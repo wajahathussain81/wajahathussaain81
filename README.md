@@ -35,9 +35,8 @@
 
 ### 📌 Featured Projects  
 - 🌞 **[Solar Dashboard](#)** – React + Flask + SQL app monitoring 20+ solar sites (6.2 MW capacity)  
-- 🚗 **EV Conversion (Re-Electric)** – Tesla battery packs, BMS, and custom wiring harness  
-- 📊 **Railway Automation (CPKC)** – Python automation saving 50% manual work on data audits  
-- 🖥️ **Homelab Automation** – Plex, Nextcloud, Nginx Proxy Manager, Docker CI/CD pipelines  
+- 🚁 **[Auto-Leveling Fire Detection Drone](#)** – Custom drone project using sensors and auto-leveling for fire detection and safety monitoring  
+- 🖥️ **[Homelab Setup](#)** – Proxmox cluster with Plex, Nextcloud, Nginx Proxy Manager, Docker CI/CD pipelines    
 
 ---
 
