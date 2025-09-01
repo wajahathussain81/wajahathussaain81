@@ -22,8 +22,6 @@
 - 💻 Passionate about **software, automation, and data-driven systems**  
 - 🛠️ Build and tinker in my **homelab** (Proxmox clusters, Dockerized services, CI/CD)  
 - ⚡ Projects spanning **EV conversions**, **solar dashboards**, and **automation pipelines**  
-- 🎯 Aspiring to become the **#1 entrepreneur in Canada** with *Acme Graphic Services*  
-
 ---
 
 ### 🧰 Tech Stack  
