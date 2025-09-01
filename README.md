@@ -55,4 +55,4 @@ Along the way, I’ve developed strong skills in **Python** and **React**, and I
 
 ---
 
-⭐ *Fun Fact*: I’m restoring a **1981 Pontiac Trans Am** — I’ve already built a custom wiring harness and am now diving into the engine work. 🔧🔥  
+⭐ *Fun Fact*: I’m restoring a **1981 Pontiac Trans Am**. I’ve already built a custom wiring harness and am now diving into the engine work. 🔧🔥  
